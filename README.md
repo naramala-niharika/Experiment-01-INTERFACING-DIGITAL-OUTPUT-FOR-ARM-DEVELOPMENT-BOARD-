@@ -190,7 +190,7 @@ case 1-LED is on:
 case 2-LED is off:
 ![Output](https://github.com/naramala-niharika/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/blob/main/2p.png?raw=true)
  
- 
+ ``
  
  
 ## Result :
