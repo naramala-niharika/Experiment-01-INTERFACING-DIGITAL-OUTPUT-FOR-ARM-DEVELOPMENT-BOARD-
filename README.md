@@ -75,9 +75,7 @@ The main features of LPC2148 include the following.
 
 
 
-
-
-~~~
+``
 ## STM 32 CUBE PROGRAM :
 
 Developed by: Naramala Niharika
@@ -182,7 +180,7 @@ void assert_failed(uint8_t *file, uint32_t line)
   
 }
 #endif
-
+``
 
 ## Output  :
 case 1-LED is on:
@@ -197,5 +195,4 @@ case 2-LED is off:
  
 ## Result :
 Interfacing a digital output with ARM microcontroller is executed and the results are verified.
-
 
