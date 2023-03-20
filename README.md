@@ -187,10 +187,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## Output  :
 case 1-LED is on:
 
-![Output](?raw=true)
+![Output](https://github.com/naramala-niharika/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/blob/main/1p.png?raw=true)
 
 case 2-LED is off:
-![Output](?raw=true)
+![Output](https://github.com/naramala-niharika/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/blob/main/2p.png?raw=true)
  
  
  
