@@ -75,14 +75,14 @@ The main features of LPC2148 include the following.
 
 
 
-``
-## STM 32 CUBE PROGRAM :
 
+## STM 32 CUBE PROGRAM :
+``
 Developed by: Naramala Niharika
 Reg no:212221240031
 Dept:AIML
 #include "main.h"
-
+``
 void SystemClock_Config(void);
 static void MX_GPIO_Init(void);
 void led();
@@ -180,7 +180,7 @@ void assert_failed(uint8_t *file, uint32_t line)
   
 }
 #endif
-``
+
 
 ## Output  :
 case 1-LED is on:
@@ -190,7 +190,7 @@ case 1-LED is on:
 case 2-LED is off:
 ![Output](https://github.com/naramala-niharika/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/blob/main/2p.png?raw=true)
  
- ``
+ 
  
  
 ## Result :
