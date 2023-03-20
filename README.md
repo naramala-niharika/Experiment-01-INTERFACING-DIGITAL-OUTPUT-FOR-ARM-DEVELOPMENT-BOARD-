@@ -82,7 +82,6 @@ Developed by: Naramala Niharika
 Reg no:212221240031
 Dept:AIML
 
-``
 #include "main.h"
 void SystemClock_Config(void);
 static void MX_GPIO_Init(void);
@@ -182,7 +181,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 }
 #endif
 
-``
+
 ## Output  :
 case 1-LED is on:
 
