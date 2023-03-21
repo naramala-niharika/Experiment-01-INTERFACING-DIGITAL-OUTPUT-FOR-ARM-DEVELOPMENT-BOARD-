@@ -77,11 +77,11 @@ The main features of LPC2148 include the following.
 
 
 ## STM 32 CUBE PROGRAM :
-
+```
 Developed by:Naramala Niharika
 Reg no:212221240031
 Dept:AIML
-```
+
 #include "main.h"
 void SystemClock_Config(void);
 
